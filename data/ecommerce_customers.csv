@@ -1,0 +1,21 @@
+customer_id,age,region,orders_count,average_order_value,total_spend,customer_status
+C001,24,South,5,850,4250,Active
+C002,31,North,2,620,1240,At Risk
+C003,28,West,8,1100,8800,Active
+C004,42,East,1,450,450,Inactive
+C005,35,South,4,700,2800,At Risk
+C006,22,West,9,950,8550,Active
+C007,46,North,1,500,500,Inactive
+C008,29,East,6,780,4680,Active
+C009,39,South,2,560,1120,At Risk
+C010,33,West,3,900,2700,At Risk
+C011,26,North,7,820,5740,Active
+C012,51,East,1,390,390,Inactive
+C013,30,South,10,1050,10500,Active
+C014,44,West,2,640,1280,At Risk
+C015,27,North,5,730,3650,Active
+C016,37,East,1,520,520,Inactive
+C017,23,South,6,880,5280,Active
+C018,41,West,3,610,1830,At Risk
+C019,32,North,8,970,7760,Active
+C020,48,East,2,430,860,Inactive
